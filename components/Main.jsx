@@ -20,6 +20,8 @@ function Main() {
     [meme.randomImage]
   );
 
+  console.log(allMemes);
+
   const getImg = function (e) {
     e.preventDefault();
     const randomNumber = Math.floor(Math.random() * allMemes.length);

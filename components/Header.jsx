@@ -1,4 +1,5 @@
 import classes from "./header.module.css";
+import trollFace from "../images/troll-face.png";
 
 function Header() {
   return (
@@ -6,7 +7,7 @@ function Header() {
       <div className={classes.header__logoBox}>
         <img
           className={classes.header__logo}
-          src="../images/troll-face.png"
+          src={trollFace}
           alt="Troll face"
         />
         <h1 className={classes.heading}>Meme Generator</h1>

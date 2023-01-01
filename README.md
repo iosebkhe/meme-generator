@@ -6,13 +6,11 @@ You can generate random meme and apply text on the top and bottom of the image.
 
 ### Links
 
-- Live Site URL: [Click here](https://memegen-iosebkhe.netlify.app/)
+- Live Site URL: [Click here](https://markdown-iosebkhe.netlify.app/)
 
 ### Created with
 
 - React.js
-- CSS Modules
-- Mobile-first workflow
 
 ## Author
 
